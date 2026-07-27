@@ -21,7 +21,7 @@ The notebook demonstrates:
 
 The original datasets are **not included** because they form part of ongoing thesis research and are not publicly distributable.
 
-To execute the notebook, replace the placeholder dataset paths with the appropriate NetCDF files.
+
 
 ## Python Libraries
 
